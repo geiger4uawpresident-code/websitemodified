@@ -49,6 +49,130 @@ Acknowledging the magnitude of the fights ahead does not mean we accept defeat. 
       quote:
         `"The fights ahead are real. So is our commitment to fighting them on your terms — with your voice, your priorities, and your power leading the way."`,
     },
+    // ADD THESE OBJECTS INSIDE THE platformSections ARRAY
+// AFTER SECTION 02
+
+{
+  number: '03',
+  title:
+    'Staff and Local Leader Development: Building a Culture of Preparation',
+  subtitle: 'Train to Prepare. Prepare to Win.',
+  challenge: `The UAW's ability to deliver for members depends entirely on the skill and preparation of the people doing the work. A wave of retirements combined with a significant influx of new hires has created a knowledge cliff. Current staff training applies a one-size-fits-all approach — the same content regardless of role, experience level, or where a rep is in their development. The bargaining skills gap is where this is most visible and most consequential — and it costs members money, benefits, and protections.`,
+  commitments: [
+    `Develop a comprehensive, tiered staff development program for all International Servicing Representatives. — The program will be role-appropriate, skill-level appropriate, and built around genuine professional development rather than one-size-fits-all content.`,
+    `Establish organizing training as a foundational requirement for all International Servicing Representatives regardless of role. The principles of organizing underpin everything we do on behalf of members.`,
+    `Build advanced training tracks for staff who bargain: offensive bargaining strategy, establishing strong board charges, the skilled use of information requests, and research tools to support preparation and strategy.`,
+    `Develop strike readiness training specifically designed for the International Servicing Representative role that is distinct from the local-facing training that already exists.`,
+    `Establish training standards for local leader and bargaining committee development. Local leaders benefit most when their individual approach is grounded in best practices built on the collective experience of our staff.`,
+  ],
+  quote:
+    `"Every member deserves a representative who shows up prepared. That doesn't happen by accident — it happens because someone invests in building the skills to do this job at the highest level."`,
+},
+
+{
+  number: '04',
+  title: 'Reimaging National Political Action and CAP',
+  subtitle: 'Start Funding Candidates. Start Winning Issues.',
+  challenge: `Walter Reuther told us there is a direct relationship between the ballot box and the bread box — and that what the union fights for and wins at the bargaining table can be taken away in the legislative halls. But in today's political landscape, that model is failing. We are spending VCAP dollars and deploying significant national staff resources to campaigns — and losing. We are driving a wedge between members who are more politically divided than ever. The answer isn't to abandon political action — it's to try something different. Reuther's words can work in both directions: what we win in the legislative halls can strengthen what we fight for at the bargaining table. We get there through unifying issue-based campaigns — not the electoral fortunes of candidates who may or may not deliver.`,
+  commitments: [
+    `Redirect the national UAW's CAP resources — International-level staff, VCAP dollars, and organizational infrastructure — away from candidate-centered campaigns and toward sustained, member-driven issue campaigns that unify our membership across political lines.`,
+    `Make clear that this is a national-level strategic shift. Locals and regional CAP councils retain full autonomy over their own political activity and endorsements.`,
+    `Establish healthcare as the flagship national issue campaign: fight rising costs, the trend towards HDHP plans, employer-controlled policy designs, and the erosion of coverage our members have bargained for and earned.`,
+    `Publish a transparent national candidate scorecard on labor issues, giving members information to make their own informed political choices.`,
+    `Reserve formal national candidate endorsements for exceptional circumstances where the stakes are unambiguous and candidates prove themselves not just through photo ops on strike lines or speeches at our conventions, but through the hard work of championing our issues in substantive ways and actively supporting our issue campaigns.`,
+  ],
+  quote:
+    `"It's time to step away from divisive politics and focus on what unifies us — issue-based campaigns that make us stronger at the bargaining table."`,
+},
+
+{
+  number: '05',
+  title:
+    'Healthcare: Bargaining, Standards, and the Issue Campaign',
+  subtitle:
+    'Healthcare is a Defining Issue. It’s Time We Treated Like One.',
+  challenge: `Healthcare is among the most consequential and difficult fights at the bargaining table across every UAW worksite and every sector.
+
+The fights look different by sector but the challenge is universal. In the Big 3, traditional employees have fought to maintain fully employer-paid coverage while second-tier employees, who never had retiree healthcare, are still fighting to gain it. Across virtually every other sector, employers are pushing lesser plans at higher costs, including the troubling trend toward “employer policy” agreements that allow employers to change or even terminate benefits unilaterally.
+
+And underneath all of it is the healthcare cliff: members working longer than they want to because they cannot afford to leave before they are Medicare-eligible. People who have spent their entire lives working deserve better than this trap.`,
+  commitments: [
+    `Build a Healthcare Bargaining Standards Committee in coalition with partner unions, developing coordinated contract language, benefit floor standards, and shared best practices that raise the baseline across every table where labor has a seat.`,
+    `Launch a UAW-led comprehensive healthcare reform issue campaign built on a broad coalition of unions, community organizations, and working people across the political spectrum.`,
+    `Keep the policy solution of the issue campaign open and coalition-driven. UAW will set the table and drive the organizing, but the direction of reform will be shaped collectively by the partners who bring their members and communities to the fight.`,
+    `Train bargainers in the standards and best practices adopted by the Healthcare Bargaining Standards Committee and how to resist and reverse employer policy language that surrenders our right to bargain.`,
+  ],
+  quote:
+    `"Every member in this union — Big 3 or higher ed, active or retired — is living the healthcare fight. It's time we fought it together, at the table and in the streets."`,
+},
+
+{
+  number: '06',
+  title:
+    'Internal Campaign Finance Reform & Union Election Integrity',
+  subtitle:
+    'Union Elections should be Won by Ideas, Not Money',
+  challenge: `Incumbent board members hold structural advantages in internal UAW elections that cannot be fully eliminated. They tour worksites, make strategic announcements, speak at conferences, and engage with members continuously — all under the legitimate cover of doing union business. That access gap is real, and intellectual honesty requires acknowledging it.
+
+But there is a second advantage that is not structural — it is corrupt. Board members leverage the administration they oversee to raise campaign funds through proxy asks that put staff in an impossible position: comply, or risk career consequences. This is compelled campaign labor and financial coercion. That is not a competitive election. That is a managed outcome.`,
+  commitments: [
+    `Prohibit anyone in UAW administration from soliciting staff to buy, sell, donate to, or otherwise support any internal campaign fundraising activity on behalf of any candidate. The proxy ask is explicitly a violation, not a loophole.`,
+    `Impose a hard $5,000 spending cap on all internal UAW election campaigns with an individual member donation limit of $100 per candidate.`,
+    `Impose a $5,000 cap on coordinated slate spending,with all coordinated expenditures counting against each participating candidate's individual $5,000 campaign cap`,
+    `Utilize the pre-election issue of Solidarity Magazine as the standardized, equal-access platform for all candidates Every candidate gets the same space, format, and reach.`,
+    `Create an Independent Election Oversight Board with explicit authority to investigate, enforce, and adjudicate all election rules compliance, to be implemented once the UAW is no longer under the oversight of the federally appointed monitor.`,
+    `Uphold the UAW Constitution's member rights provisions in full: due process, equal access to union resources for all candidates, and enforceable protection from retaliation.`,
+    `Work collaboratively with the board, the Independent Monitor, the UAW Staff Council, and within our constitutional framework to bring about necessary reforms — and lead by personal example in demonstrating the standard of conduct this union's elections deserve`,
+  ],
+  quote:
+    `"Leadership that wins a fair fight gains the credibility to lead. That's the standard we're setting — for this election and every one after it."`,
+},
+
+{
+  number: '07',
+  title: 'Retiree Dignity and Continued Voice',
+  subtitle:
+    'You Built This Union. We Don’t Get to Forget That.',
+  challenge: `UAW retirees won the contracts, the benefits, and the standards that active members rely on today. Then they found themselves sidelined — while COLA was stripped, healthcare premiums rose, and Medicare supplemental coverage eroded.
+
+Retirement security is not one benefit and it does not look the same across our membership. Some are watching a fixed pension lose ground to inflation year after year. Some are rationing prescriptions. Some are surviving spouses navigating a system that was never designed with them in mind. Some never truly retired — they kept working because they couldn't afford not to.
+
+We will not pit retirees against active workers or one generation against another. The retirees who won pensions and healthcare are not yesterday’s members. They proved what a strong union can do. We owe it to them to keep fighting.`,
+  commitments: [
+    `Establish a standing UAW Retiree Advisory Council with direct access to the President and to bargaining teams whose contracts affect retiree benefits.`,
+    `Include retiree representatives in contract discussions that affect their benefits, with formal comment rights before any ratification vote.`,
+    `Run a sustained issue campaign for entitlement protections — Social Security, Medicare, Medicaid — mobilizing both active and retired members together.`,
+    `Create formal opportunities to integrate retired and active members in organizing, mobilization, and member education. Retirees are a resource, not a constituency to be managed.`,
+    `Create a dedicated Retiree Liaison position within the UAW International, accountable directly to the President.`,
+    `Champion an inclusive retiree definition at the 2026 Constitutional Convention, one that recognizes any member who has left the workforce after a defined period of service, regardless of age or benefit eligibility status.`,
+    `Make retiree dues mandatory at $2 per month as a condition of retired membership, consistent with the principle that membership in this union requires contribution to it.`,
+  ],
+  quote:
+    `"Retirees are not yesterday's members. Retirees are living proof of what this union can do when we decide to fight."`,
+},
+
+{
+  number: '08',
+  title: 'Organzing: Growing our Power',
+  subtitle: 'Rallies Don’t Form Unions. Workers Do.',
+  challenge: `Organizing is not optional. Union density has a direct and documented correlation to bargaining power. But organizing is also a moral obligation — anyone with the courage to stand up and demand change in their workplace deserves to be supported in that fight.
+
+The UAW has lost winnable campaigns under the current administration — including Mercedes-Benz in Alabama (56% to 44%) — a failure of strategy and leadership at the top, not of the in-plant organizing committee or the organizers who put in the work on the ground. The VW win in Chattanooga was real, but it was built on years of commitment by workers and staff long before Fain arrived. Surfing the momentum of the Big 3 contracts is not an organizing strategy. It is hubris.
+
+The loss at Axalta Coating Systems in Mount Clemens, Michigan — in the heart of union country — is the most instructive recent example. UAW leadership pointed to two rallies as evidence of effort. Rallies don't form unions. Workers do. Being surprised by the outcome means you didn't know your worksite.
+
+The credibility problem compounds everything. Employer anti-union campaigns are citing the monitor reports. No organizing budget overcomes a credibility deficit. Leadership above reproach is a prerequisite for consistent organizing wins.`,
+  commitments: [
+    `Restore organizing to its proven fundamentals: consistent and accurate data collection, worksite mapping, network building, systematic relationship building, leader development, and comprehensive inoculation against the employer's campaign.`,
+    `Recognize that organizing is not one-size-fits-all. Manufacturing, campus, hospital, and service sector campaigns require different strategies and different expertise.`,
+    `End the outsourcing of organizing leadership. — The UAW's organizing department will be led by experienced UAW staff with institutional knowledge and accountability to outcomes.`,
+    `Use technology as a tool, not a substitute. Digital authorization cards are a tool, not a strategy; adopt new tools constantly, but always in service of proven principles.`,
+    `Measure success beyond the vote. A unit that votes yes without having been built through genuine organizing will struggle to bargain a first contract and fail to enforce it.`,
+    `Restore leadership credibility as an organizing asset. Clean governance and organizing success are not separate priorities, they are the same priority.`,
+  ],
+  quote:
+    `"Every worker who has the courage to stand up deserves a union that knows how to win — and how to make that win last."`,
+},
   ];
 
   return (
