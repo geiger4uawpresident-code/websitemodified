@@ -4,9 +4,9 @@
  */
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "websiteedit1",
+  "name": "websitemodified",
   "main": "worker/index.ts",
-  "compatibility_date": "2026-05-07",
+  "compatibility_date": "2026-05-11",
   "upload_source_maps": false,
   "assets": {
     "directory": "./dist",
