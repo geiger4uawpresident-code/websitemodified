@@ -72,7 +72,7 @@ Acknowledging the magnitude of the fights ahead does not mean we accept defeat. 
 {
   number: '04',
   title: 'Reimaging National Political Action and CAP',
-  subtitle: 'Start Funding Candidates. Start Winning Issues.',
+  subtitle: 'Stop Funding Candidates. Start Winning Issues.',
   challenge: `Walter Reuther told us there is a direct relationship between the ballot box and the bread box — and that what the union fights for and wins at the bargaining table can be taken away in the legislative halls. But in today's political landscape, that model is failing. We are spending VCAP dollars and deploying significant national staff resources to campaigns — and losing. We are driving a wedge between members who are more politically divided than ever. The answer isn't to abandon political action — it's to try something different. Reuther's words can work in both directions: what we win in the legislative halls can strengthen what we fight for at the bargaining table. We get there through unifying issue-based campaigns — not the electoral fortunes of candidates who may or may not deliver.`,
   commitments: [
     `Redirect the national UAW's CAP resources — International-level staff, VCAP dollars, and organizational infrastructure — away from candidate-centered campaigns and toward sustained, member-driven issue campaigns that unify our membership across political lines.`,
@@ -90,7 +90,7 @@ Acknowledging the magnitude of the fights ahead does not mean we accept defeat. 
   title:
     'Healthcare: Bargaining, Standards, and the Issue Campaign',
   subtitle:
-    'Healthcare is a Defining Issue. It’s Time We Treated Like One.',
+    'Healthcare is a Defining Issue. It’s Time We Treated it Like One.',
   challenge: `Healthcare is among the most consequential and difficult fights at the bargaining table across every UAW worksite and every sector.
 
 The fights look different by sector but the challenge is universal. In the Big 3, traditional employees have fought to maintain fully employer-paid coverage while second-tier employees, who never had retiree healthcare, are still fighting to gain it. Across virtually every other sector, employers are pushing lesser plans at higher costs, including the troubling trend toward “employer policy” agreements that allow employers to change or even terminate benefits unilaterally.
