@@ -304,22 +304,7 @@ The credibility problem compounds everything. Employer anti-union campaigns are 
                 plan for UAW reform and bargaining power.
               </p>
 
-              <Button
-                asChild
-                size="lg"
-                className="bg-campaign-gold hover:bg-campaign-gold/90 text-white font-black h-16 px-10 text-lg shadow-xl shadow-campaign-gold/20"
-              >
-                <a
-                  href={PLATFORM_DOC_URL}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center gap-3"
-                >
-                  <FileText className="w-5 h-5" />
-                  View Full Strategic Platform
-                  <ExternalLink className="w-4 h-4" />
-                </a>
-              </Button>
+
 
             </CardContent>
           </Card>
