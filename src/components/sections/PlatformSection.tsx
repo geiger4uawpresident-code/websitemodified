@@ -145,7 +145,7 @@ We will not pit retirees against active workers or one generation against anothe
     `Create formal opportunities to integrate retired and active members in organizing, mobilization, and member education. Retirees are a resource, not a constituency to be managed.`,
     `Create a dedicated Retiree Liaison position within the UAW International, accountable directly to the President.`,
     `Champion an inclusive retiree definition at the 2026 Constitutional Convention, one that recognizes any member who has left the workforce after a defined period of service, regardless of age or benefit eligibility status.`,
-    `Make retiree dues mandatory at $2 per month as a condition of retired membership, consistent with the principle that membership in this union requires contribution to it.`,
+    
   ],
   quote:
     `"Retirees are not yesterday's members. Retirees are living proof of what this union can do when we decide to fight."`,
